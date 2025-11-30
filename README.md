@@ -40,7 +40,9 @@ The analysis confirmed that stroke risk is strongly linked to age, hypertension,
 **References & Appendices**
 
 Dataset: Stroke Prediction Dataset (Kaggle) — https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset
+
 Tools Used: Microsoft Excel (Pivot Tables, Charts, IFS functions)
+
 Research: WHO Stroke Fact Sheets, CDC Stroke Risk Factors, peer-reviewed literature on stroke prevention
 
 Appendices: Additional charts, tables, and raw data snapshots
